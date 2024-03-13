@@ -1,6 +1,6 @@
 repeat task.wait() until game:IsLoaded()
 
-local MainScriptLoadstring = "https://raw.githubusercontent.com/AfgMS/GodSploitWhiteList/main/GodSploitSex.lua"
+local MainScriptLoadstring = "https://raw.githubusercontent.com/leaker-lol/GodSploitWhiteList/main/GodSploitSex.lua"
 local SecurityLoadstring = "https://raw.githubusercontent.com/AlSploit/GodSploit/main/Security"
 
 local function InitMainScript()
